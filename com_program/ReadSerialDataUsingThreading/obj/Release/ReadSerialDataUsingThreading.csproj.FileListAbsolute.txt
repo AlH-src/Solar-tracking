@@ -1,0 +1,12 @@
+D:\kod\New folder\ReadSerialDataUsingThreading\bin\Release\ReadSerialDataUsingThreading.exe.config
+D:\kod\New folder\ReadSerialDataUsingThreading\bin\Release\ReadSerialDataUsingThreading.exe
+D:\kod\New folder\ReadSerialDataUsingThreading\bin\Release\ReadSerialDataUsingThreading.pdb
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.csproj.AssemblyReference.cache
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.csproj.SuggestedBindingRedirects.cache
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.Form1.resources
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.Mainfrm.resources
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.Properties.Resources.resources
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.csproj.GenerateResource.cache
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.csproj.CoreCompileInputs.cache
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.exe
+D:\kod\New folder\ReadSerialDataUsingThreading\obj\Release\ReadSerialDataUsingThreading.pdb

@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\bin\Debug\maturski rad.exe.config
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\bin\Debug\maturski rad.exe
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\bin\Debug\maturski rad.pdb
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski rad.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski rad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski_rad.Log_in_frm.resources
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski_rad.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski rad.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski rad.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski rad.exe
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\maturski rad.pdb
+C:\Users\Korisnik\Desktop\senzor kretanja sunca\maturski rad\obj\Debug\ReadSerialDataUsingThreading.Com.resources
